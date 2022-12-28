@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bethu05
-- 👀 I’m interested in Datascience, Backend-Development
-- 🌱 I’m currently learning Node JS, Python advanced, Java advanced
-- 💞️ I’m looking to collaborate on any project which will help me grow as a developer.
+- 👋 Hi, I’m @Bethwell Langat
+- 👀 I’m interested in frontend and backend development, Datascience
+- 🌱 I’m currently learning Microservices with Docker and Kubernetes
+- 💞️ I’m looking to collaborate on any project which will help me grow as a software developer.
 - 📫 How to reach me Email: bethu05.dev@gmail.com 
 
 <!---
